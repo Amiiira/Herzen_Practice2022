@@ -7,14 +7,14 @@
 + [Отчет по практике](https://github.com/Amiiira/Herzen-Practice/tree/main/Отчет%20по%20практике)
 + [Задание на учебную практику](https://github.com/Amiiira/Herzen-Practice/tree/main/Задание%20на%20практику)
 ---
-### Инвариантная самостоятельная работа:
+## Инвариантная самостоятельная работа:
 
 + [ИСР 1.1](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ИСР%201.1.pdf)
 + [ИСР 1.2](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ИСР%201.2.pdf)
 + [ИСР 1.3](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ИСР%201.3.pdf)
 
 ---
-### Вариативная самостоятельная работа:
+## Вариативная самостоятельная работа:
 + [ВСР 2.1](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ВСР%202.1.pdf)
 + [ВСР 2.2](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ВСР%202.2.pdf)
 + [ВСР 2.3](https://github.com/Amiiira/Herzen_Practice2022/blob/main/ВСР%202.3.pdf)
