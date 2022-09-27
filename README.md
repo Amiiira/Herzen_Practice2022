@@ -4,8 +4,8 @@
 ![Purple City by Denis Istomin](https://user-images.githubusercontent.com/55031081/192568354-7152ee59-6e88-4b81-8f5a-c643d1baa35a.jpg)
 
 ---
-+ [Отчет по практике](https://github.com/Amiiira/Herzen-Practice/blob/main/Зухир%20А.С%202.1%20Отчет%20по%20практике.docx)
-+ [Задание на учебную практику](https://github.com/Amiiira/Herzen_Practice2022/blob/main/Зухир%20А.С%202.1%20Задание%20на%20практику.docx)
++ [Отчет по практике](https://github.com/Amiiira/Herzen-Practice/tree/main/Отчет%20по%20практике)
++ [Задание на учебную практику](https://github.com/Amiiira/Herzen-Practice/tree/main/Задание%20на%20практику)
 ---
 ### Инвариантная самостоятельная работа:
 
